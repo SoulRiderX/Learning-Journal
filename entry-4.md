@@ -1,0 +1,3 @@
+# Entry 4
+
+I'm much relieved that the salmon cookies project final turn in day has been set to sunday. Although I don't think that really helps my chances too much since the code i had got erased after i tried fixing the errors on github. The whole thing may not be completed by then but i have a fairly good idea of what needs to be done. just need to have a TA help me figure it out again. but first the issue of the conflicts that need resolving. we haven't talked about those at all, which doesn't help much. i also figure there must be more to writing these entries than i previously believed. just a thought.
